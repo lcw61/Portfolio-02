@@ -136,3 +136,9 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local Codex project instructions
+/AGENTS.md
+
+# Local game design notes
+/GAME_DESIGN.md
