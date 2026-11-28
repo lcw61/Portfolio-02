@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ResourceItem : MonoBehaviour
@@ -12,7 +10,7 @@ public class ResourceItem : MonoBehaviour
     {
 
     }
-    
+
     // 플레이어와 닿으면 습득
 
 }

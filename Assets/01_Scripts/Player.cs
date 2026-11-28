@@ -14,6 +14,8 @@ public class Player : NetworkBehaviour
 
     [SerializeField] private bool isInSafeZone;
 
+    // 아이템 슬롯은 배열, 슬롯 안에 내용물은 리스트?
+
     private void Awake()
     {
         rigid = GetComponent<Rigidbody2D>();
